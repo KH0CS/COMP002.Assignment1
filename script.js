@@ -1,1 +1,1 @@
-console.log
+console.log("This is method 2 of 3 on how to add JavaScript to your code from and external file.");
